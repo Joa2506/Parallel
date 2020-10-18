@@ -5,5 +5,5 @@ int array_of_int[MAX_NUMBER];
 
 
 void fill_rand();
-void print_rand();
+void print_arr();
 void insertion_sort(int arr[], int n);

@@ -15,7 +15,7 @@ void fill_rand()
 
 }
 
-void print_rand()
+void print_arr()
 {
   int i;
   for (i = 0; i < MAX_NUMBER; i++) {
